@@ -1,5 +1,5 @@
 
-def aritmetic_formatter(numlist, decider):
+def arithmetic_arranger(numlist, decider):
     formatedList = []
     firstColumn = ""
     secondColumn = ""
