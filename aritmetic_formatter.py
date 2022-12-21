@@ -69,5 +69,3 @@ def aritmetic_formatter(numlist, decider):
         printLine = firstColumn + "\n" + secondColumn + "\n" + lines
         print(printLine)
 
-
-aritmetic_formatter(["2 + 22", "1 + 3", "3333 + 2222", "44 * 3444"], True)
